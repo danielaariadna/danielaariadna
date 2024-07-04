@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif" height="300"/>
-</p>
+
 <hr>
 <h1 align="center">Hi <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV0NjkxNnUxOXB0d2xncWtrb2x0OTVzY3JzYmJ0NDB2bXo0cG96aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1o1oyOi61yOeGG7MtL/200.webp" width="50px">, I'm Daniela</h1>
 <h3 align="center">Estudiante de Ingeniería en Informática | Backend Developer</h3>
@@ -85,7 +83,9 @@
   </kbd>
 </p>
 
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif" height="300"/>
+</p>
 
 
 
