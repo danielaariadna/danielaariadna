@@ -1,16 +1,96 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif" height="300"/>
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV0NjkxNnUxOXB0d2xncWtrb2x0OTVzY3JzYmJ0NDB2bXo0cG96aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1o1oyOi61yOeGG7MtL/200.webp" width="50px">, I'm Daniela</h1>
+<h3 align="center">Estudiante de Ingeniería en Informática | Backend Developer</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/daniela-ariadna-morales/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="Daniela" height="30" width="40" /></a>
+<a href = "mailto: danielaariadnamorales@gmail.com"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" height="30" width="40" /></a>
+<a href = "https://www.instagram.com/daniela.ariadnaa/"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" height="30" width="40" /></a>
+</p>
+</p>
 
-<!--
-**danielaariadna/danielaariadna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>
+    Cómo buena estudiante y desarrolladora Trainee buscando su primer oportunidad laboral, utilizo esta plataforma para mis proyectos educativos, portfolio, trabajos freelance y sobre todo y más importante, compartir todo aquello que me hubiese servido a mí. Te invito a revisar <a href=""> <b>Mi página web</b></a>.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+   
+  </em> 
+
+</p>
+
+<img align="right" width=300px alt="Gif" src="https://i.pinimg.com/originals/0a/ab/f7/0aabf77c08ea2b01e46c8a9a0ade04cb.gif" />
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60px">&nbsp;***About me***
+
+✔ 24 años :blossom: <br>
+✔ Argentina<br>
+✔ Estudiante en la Universidad Nacional de San Luis<br>
+✔ Introduciendomé en el mundo del hacking ético<br>
+✔ Team backend siempre :punch: <br>
+✔ Ojalá algún día Red Team :diamonds: <br>
+✔ **Learning English**<br>
+
+ 
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60px">&nbsp;***Languages & Tools***
+<p align="center">
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" />
+  </kbd>
+ 
+  <br>
+  <kbd>
+    <kbd>Data Base</kbd>
+    <br>
+    <br>
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" />
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" />
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Terminal Scripts</kbd>
+    <br>
+    <br>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" />
+  </kbd>
+  <kbd>
+    <kbd>OS</kbd>
+    <br>
+    <br>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  </kbd>
+</p>
+
+
+
+
+
+
+
+
+
+
