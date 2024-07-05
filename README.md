@@ -51,6 +51,12 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" />
   </kbd>
+  <kbd>
+      <kbd>Mobile</kbd>
+    <br>
+    <br>
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/AndroidStudio-Dark.svg" />
+  </kbd>
  
   <br>
   <kbd>
