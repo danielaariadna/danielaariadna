@@ -85,6 +85,7 @@
     <br>
     <br>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+     <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" />
   </kbd>
 </p>
 
