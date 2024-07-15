@@ -65,7 +65,7 @@
     <br>
     <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" />
     <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" />
-    <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" />
+    <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" />
   </kbd>
   <kbd>
     <kbd>Terminal Scripts</kbd>
@@ -85,7 +85,6 @@
     <br>
     <br>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
 </p>
 
