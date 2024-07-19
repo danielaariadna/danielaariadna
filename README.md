@@ -27,7 +27,7 @@
 ✔ Argentina<br>
 ✔ Estudiante en la Universidad Nacional de San Luis<br>
 ✔ Introduciendomé en el mundo del hacking ético<br>
-✔ Team backend siempre :punch: <br>
+✔ Team backend <br>
 ✔ Ojalá algún día Red Team :diamonds: <br>
 ✔ **Learning English**<br>
 
