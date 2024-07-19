@@ -35,58 +35,66 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60px">&nbsp;***Languages & Tools***
 <p align="center">
+ Actualmente estoy enfocada en:<br><br>
+          <kbd>
+            <kbd>Back-end🔥</kbd>
+            <br>
+            <br>
+            <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          </kbd>
+        <kbd>
+            <kbd>Term Script🔥</kbd>
+            <br>
+            <br>
+            <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+          </kbd> 
+        <kbd>
+            <kbd>OS🔥</kbd>
+            <br>
+            <br>
+            <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+            <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" />
+        </kbd>
+        <kbd>
+            <kbd>Data Base🔥</kbd>
+            <br>
+            <br>
+            <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" />
+          </kbd>
+  <br><br>
+ Pero también esoy familiarizada con:
+  <br><br>
   <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" />
-  </kbd>
-  <kbd>
-      <kbd>Mobile</kbd>
-    <br>
-    <br>
-    <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/AndroidStudio-Dark.svg" />
-  </kbd>
- 
-  <br>
-  <kbd>
-    <kbd>Data Base</kbd>
-    <br>
-    <br>
-    <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" />
-    <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" />
-    <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Terminal Scripts</kbd>
-    <br>
-    <br>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Tools</kbd>
-    <br>
-    <br>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" />
-  </kbd>
-  <kbd>
-    <kbd>OS</kbd>
-    <br>
-    <br>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-     <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" />
-  </kbd>
+            <kbd>Back-end🌱</kbd>
+            <br>
+            <br>
+            <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+            <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" />
+            <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" />
+          </kbd>
+        </kbd>
+          <kbd>
+            <kbd>Front-end🌱</kbd>
+            <br>
+            <br>
+            <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+            <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+            <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          </kbd>
+        <kbd>
+            <kbd>Mobile🌱 </kbd>
+          <br>
+          <br>
+          <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/AndroidStudio-Dark.svg" />
+        </kbd>
+        <kbd>
+            <kbd>Data Base🔥</kbd>
+            <br>
+            <br>
+            <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" />
+            <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" />
+          </kbd>
+         <br><br> 🔥: Mi fuerte - 🌱: Básico
 </p>
 
 
