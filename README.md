@@ -55,12 +55,6 @@
             <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
             <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" />
         </kbd>
-        <kbd>
-            <kbd>Data Base🔥</kbd>
-            <br>
-            <br>
-            <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" />
-          </kbd>
   <br><br>
  Pero también esoy familiarizada con:
   <br><br>
@@ -93,6 +87,7 @@
             <br>
             <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" />
             <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" />
+          <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" />
           </kbd>
          <br><br> 🔥: Mi fuerte - 🌱: Básico
 </p>
