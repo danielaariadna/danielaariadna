@@ -49,10 +49,10 @@
             <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           </kbd> 
         <kbd>
-            <kbd>OS🔥</kbd>
+            <kbd>Pentesting🔥</kbd>
             <br>
             <br>
-            <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+            <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" />
             <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" />
         </kbd>
   <br><br>
@@ -89,7 +89,7 @@
             <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" />
           <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" />
           </kbd>
-         <br><br> 🔥: Mi fuerte - 🌱: Básico
+         <br><br> 🌱: Básico
 </p>
 
 
