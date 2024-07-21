@@ -49,7 +49,7 @@
             <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           </kbd> 
         <kbd>
-            <kbd>Pentesting🔥</kbd>
+            <kbd>Pentesting🌱</kbd>
             <br>
             <br>
             <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" />
