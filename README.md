@@ -1,6 +1,6 @@
 
 <hr>
-<h1 align="center">Hi <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV0NjkxNnUxOXB0d2xncWtrb2x0OTVzY3JzYmJ0NDB2bXo0cG96aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1o1oyOi61yOeGG7MtL/200.webp" width="50px">, I'm Daniela</h1>
+<h1 align="center">Hi <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV0NjkxNnUxOXB0d2xncWtrb2x0OTVzY3JzYmJ0NDB2bXo0cG96aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1o1oyOi61yOeGG7MtL/200.webp" width="50px">, I'm Ariadna</h1>
 <h3 align="center">Estudiante de Ingeniería en Informática | Backend Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/daniela-ariadna-morales/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="Daniela" height="30" width="40" /></a>
