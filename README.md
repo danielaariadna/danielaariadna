@@ -13,7 +13,7 @@
 
 <p align="center">
   <em>
-    Cómo buena estudiante y desarrolladora Trainee buscando su primer oportunidad laboral, utilizo esta plataforma para mis proyectos educativos, portfolio, trabajos freelance y sobre todo y más importante, compartir todo aquello que me hubiese servido a mí. Te invito a visitar <a href=""> <b>Mi página web</b></a>.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+    Cómo buena estudiante y desarrolladora Trainee buscando su primer oportunidad laboral, utilizo esta plataforma para mis proyectos educativos, portfolio, trabajos freelance y sobre todo y más importante, compartir todo aquello que me hubiese servido a mí. Te invito a visitar <a href="https://www.danielaariadnamorales.website" target="_blank"> <b>Mi página web</b></a>.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
    
   </em> 
 
