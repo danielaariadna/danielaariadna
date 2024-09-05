@@ -89,6 +89,11 @@
             <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" />
           <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" />
           </kbd>
+   <br> <br>Certificaciones:
+  <br><br>
+  <kbd>
+            <img width="100px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" />
+  </kbd>
          <br><br> 🌱: Básico
 </p>
 
