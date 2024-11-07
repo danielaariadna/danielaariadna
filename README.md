@@ -37,19 +37,19 @@
 <p align="center">
  Actualmente estoy enfocada en:<br><br>
           <kbd>
-            <kbd>Back-end🔥</kbd>
+            <kbd>Back-end</kbd>
             <br>
             <br>
             <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
           </kbd>
         <kbd>
-            <kbd>Term Script🔥</kbd>
+            <kbd>Term Script</kbd>
             <br>
             <br>
             <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           </kbd> 
         <kbd>
-            <kbd>Pentesting🌱</kbd>
+            <kbd>Pentesting</kbd>
             <br>
             <br>
             <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" />
@@ -59,7 +59,7 @@
  Pero también esoy familiarizada con:
   <br><br>
   <kbd>
-            <kbd>Back-end🌱</kbd>
+            <kbd>Back-end</kbd>
             <br>
             <br>
             <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -68,7 +68,7 @@
           </kbd>
         </kbd>
           <kbd>
-            <kbd>Front-end🌱</kbd>
+            <kbd>Front-end</kbd>
             <br>
             <br>
             <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
@@ -76,13 +76,13 @@
             <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           </kbd>
         <kbd>
-            <kbd>Mobile🌱 </kbd>
+            <kbd>Mobile </kbd>
           <br>
           <br>
           <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/AndroidStudio-Dark.svg" />
         </kbd>
         <kbd>
-            <kbd>Data Base🔥</kbd>
+            <kbd>Data Base</kbd>
             <br>
             <br>
             <img width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" />
@@ -94,7 +94,7 @@
   <kbd>
             <img width="100px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" />
   </kbd>
-         <br><br> 🌱: Básico
+   
 </p>
 
 
