@@ -93,6 +93,7 @@
   <br><br>
   <kbd>
             <img width="100px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" />
+            <img width="100px" src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/twitter_thumb_201604_image.png" />
   </kbd>
    
 </p>
